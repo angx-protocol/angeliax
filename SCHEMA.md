@@ -14,7 +14,7 @@
 
 **witness** — a steward who directly observed or replicated another node's work and recorded what they found.
 
-**library** — a steward's personal collection made publicly addressable. Mirrors the steward's replicated feeds exactly. Follows the steward, not a location.
+**library** — a publicly addressable collection of a keypair's own nodes and replicated feeds. Anyone with the address can read it.
 
 ---
 
