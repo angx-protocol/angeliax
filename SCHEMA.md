@@ -186,11 +186,11 @@ Learning signal attachments are stored in the node's Hyperdrive. Textual signals
 
 ## Library
 
-A steward publishes a library to make their work visible and evaluable before entering the network. The library has two sections: own nodes — all nodes signed by this keypair — and replicated nodes — feeds the steward holds from others. Both sections are publicly addressable under a single p2p address derived from the steward keypair.
+Any keypair publishes a library to make its work visible and evaluable before entering the network. The library has two sections: own nodes — all nodes signed by this keypair — and replicated nodes — feeds the keypair holds from others. Both sections are publicly addressable under a single p2p address derived from the keypair.
 
-Publishing a library is a unilateral act. No permission required. The library updates automatically as the steward logs and replicates. No name, no description, no separate identity. The steward keypair is the library's identity.
+Publishing a library is a unilateral act. No permission required. The library updates automatically as the keypair logs and replicates. No name, no description, no separate identity. The keypair is the library's identity.
 
-A library is distinct from a base. A base belongs to a physical space and stays when stewards rotate. A library belongs to a steward and moves with them.
+A library is distinct from a base. A base belongs to a physical space and stays when stewards rotate. A library belongs to a keypair.
 
 ---
 
