@@ -14,7 +14,7 @@
 
 **witness** — a steward who directly observed or replicated another node's work and recorded what they found.
 
-**library** — a publicly addressable collection of a keypair's own nodes and replicated feeds. Anyone with the address can read it.
+**library** — a publicly addressable collection of a keypair's own nodes and replicated feeds. Anyone with the address can read it. Both steward keypairs and space keypairs publish libraries.
 
 ---
 
@@ -62,6 +62,8 @@ Recommended hardware for running a base: Raspberry Pi + UPS. Individual builders
 | energy       | Energy generation, storage, distribution, off-grid systems        |
 | connectivity | Communications hardware, protocols, mesh/satellite infrastructure |
 | other        | Fundamental infrastructure work not covered above.                |
+
+Operational nodes cover practical and theoretical work within the enum. Learning signals with attached documentation are the primary mechanism for theoretical work.
 
 ---
 
@@ -304,7 +306,7 @@ On first run, before any nodes are created, the client asks one question:
 
 **[ My own work ]** — a practice, research, or project that moves with the steward. Initialize Base is never present in this client.
 
-The answer is signed into the keypair's first record. Shapes one UI branch only. The protocol sees only keypairs and nodes after this point.
+The answer is signed into the keypair's first record. Shapes one UI branch only. The protocol sees only keypairs and nodes after this point. Space clients should run on a persistent device from first run — the keypair generated at initialization is permanent and belongs to the space.
 
 ---
 
