@@ -65,7 +65,7 @@ Recommended hardware for running a base: Raspberry Pi + UPS. Individual builders
 
 Operational nodes cover practical and theoretical work within the enum. Learning signals with attached documentation are the primary mechanism for theoretical work.
 
-The enum is intentionally minimal and stable. Evaluate nodes by primary function, not surface label — sanitation maps to health, transportation to connectivity, educational infrastructure to informational or the relevant domain. Use `other` only when the work genuinely cannot be mapped to an existing category.
+The enum is intentionally minimal and stable. Evaluate nodes by primary function, not surface label — sanitation maps to health, transportation to connectivity, educational infrastructure to the relevant domain. Use `other` only when the work genuinely cannot be mapped to an existing category.
 
 ---
 
