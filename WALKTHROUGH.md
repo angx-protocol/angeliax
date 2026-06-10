@@ -310,7 +310,7 @@ In two weeks:
 - He received food from a rooftop garden and witnessed it
 - Both steward feeds and both witness feeds grew — permanently, without any central authority involved
 
-All of it signed. All of it permanent. Reachable by any builder connected to the base or any base partnered with it.
+All of it signed. All of it permanent. Reachable by any steward connected to the base or any base partnered with it.
 
 ---
 
