@@ -150,6 +150,22 @@ Nour takes what she needs. She has a commons node of her own — a room in Algie
 
 ---
 
+## Part 5 — Fatima queries the network
+
+farm-mornag is now partnered with Sfax. Through Sfax, the partner chain reaches bases in Morocco, Algeria, and further.
+
+Fatima has been losing courgette plants to a soil fungus for two seasons. She has tried what she knows. Nothing has worked.
+
+**Operational tab → query: food nodes → learning signals**
+
+She reads through learning signals from food nodes across the partner chain. A farm base in Morocco logged a learning signal eight months ago with an attachment — a detailed method for treating the same fungus using composted organic material available in any market garden.
+
+She fetches the attachment. Reads it. The materials are all available locally.
+
+She tries the method. It works.
+
+---
+
 ## What remained
 
 Fatima started with surplus vegetables and a gate.
