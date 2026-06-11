@@ -6,7 +6,7 @@
 
 ## Terms
 
-**steward** — a builder running one or more operational or commons nodes.
+**steward** — anyone running one or more operational or commons nodes.
 
 **base steward** — a person operating a base. Curates its collection. Decides which feeds are accepted.
 
@@ -37,7 +37,7 @@ Same client. Same keypair. Structurally separate.
 | Hyperswarm | Peer discovery via DHT. No central servers.                                              |
 | Hyperdrive | File storage attached to a node. Attachments fetched on demand. Max 10MB per attachment. |
 
-Recommended hardware for running a base: Raspberry Pi + UPS. Individual builders may run the client on any laptop.
+Recommended hardware for running a base: Raspberry Pi + UPS. Individual stewards may run the client on any laptop.
 
 ---
 
