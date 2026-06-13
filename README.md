@@ -12,6 +12,8 @@ The same happens with surplus. A hostel feeds five people every morning. A lawye
 
 ANGX is the missing infrastructure for actors who operate outside institutional frameworks — independent builders, small farms, community kitchens, free clinics, individual practitioners, households with surplus to give. People and spaces whose work dissolves when projects end and whose surplus is invisible beyond their immediate location. ANGX makes that work and surplus permanently visible, globally reachable, and queryable by anyone connected to the network.
 
+At sufficient density, ANGX becomes the first permanent and decentralized record of the operational reality of fundamental infrastructure work and surplus provision happening outside institutional frameworks. Queryable by anyone, owned by no one, resilient by design.
+
 ---
 
 ## What It Is
