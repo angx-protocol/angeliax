@@ -10,7 +10,7 @@ It disappears when projects end, when organisations lose funding, when people mo
 
 The same happens with surplus. A hostel feeds five people every morning. A lawyer sees migrants for free on Tuesday afternoons. A farmer leaves produce at the gate on Fridays. Real, consistent, already happening — invisible to anyone not already there.
 
-ANGX is the missing infrastructure for actors who operate outside institutional frameworks — independent builders, small farms, community kitchens, free clinics, individual practitioners, households with surplus to give. People and spaces whose work dissolves when projects end and whose surplus is invisible to everyone except those already standing in front of it. If no institutional system already makes your work and surplus visible and accountable, this was built for you.
+ANGX is the missing infrastructure for actors who operate outside institutional frameworks — independent builders, small farms, community kitchens, free clinics, individual practitioners, households with surplus to give. People and spaces whose work dissolves when projects end and whose surplus is invisible beyond their immediate location. ANGX makes that work and surplus permanently visible, globally reachable, and queryable by anyone connected to the network.
 
 ---
 
