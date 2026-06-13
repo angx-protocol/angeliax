@@ -156,7 +156,7 @@ farm-mornag is now partnered with Sfax. Through Sfax, the partner chain reaches 
 
 Fatima has been losing courgette plants to a soil fungus for two seasons. She has tried what she knows. Nothing has worked.
 
-**Operational tab → query: food nodes → learning signals**
+**Operational tab → query: food nodes → learning signals → "pythium"**
 
 She reads through learning signals from food nodes across the partner chain. A farm base in Morocco logged a learning signal eight months ago with an attachment — a detailed method for treating the same fungus using composted organic material available in any market garden.
 

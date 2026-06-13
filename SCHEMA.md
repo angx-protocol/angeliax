@@ -33,7 +33,7 @@ Same client. Same keypair. Structurally separate.
 | Component  | Role                                                                                     |
 | ---------- | ---------------------------------------------------------------------------------------- |
 | Hypercore  | Append-only, cryptographically signed feed. One feed per node. Immutable.                |
-| Hyperbee   | B-tree index over Hypercore. Queries by node type, location, signal type, timestamp.     |
+| Hyperbee   | B-tree index over Hypercore. Queries by node type, location, signal type, timestamp, and signal text.     |
 | Hyperswarm | Peer discovery via DHT. No central servers.                                              |
 | Hyperdrive | File storage attached to a node. Attachments fetched on demand. Max 10MB per attachment. |
 
