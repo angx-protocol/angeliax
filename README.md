@@ -41,6 +41,7 @@ A relay-based prototype demonstrating the core signal loop — two-log model, Ed
 ## Docs
 
 - WALKTHROUGH.md — how ANGX works
+- WALKTHROUGH-commons.md — how an ordinary space enters angeliaX
 - SCHEMA.md — complete technical specification
 - CONSTRAINTS.md — ten system constraints
 
